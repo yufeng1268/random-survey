@@ -10,7 +10,6 @@
 const urls = [
 	'https://forms.gle/WxwB5vn7kvwhW5GUA',
 	'https://forms.gle/nLi72aturLvjnqucA',
-	'https://forms.gle/tYcLerY5yZ4SLAdV6',
 	'https://forms.gle/5BkDWcA57YazZb699',
 	'https://forms.gle/TTFYWCCcuMf5ufgQA',
 	'https://forms.gle/pjqG2EnieCa6WARK6',
@@ -22,7 +21,6 @@ const urls = [
 	'https://forms.gle/Wi7Sio4Z4fH2FdNu9',
 	'https://forms.gle/LckQX5TZ1mwfsL7z8',
 	'https://forms.gle/VKL6Fe8xCfNzsWQv7',
-	'https://forms.gle/xF9Av4yZC7w6Hgtq8',
 	'https://forms.gle/krWodFpPheqTrv9F6',
 	'https://forms.gle/tzZkybeWG9GWLWWWA',
 	'https://forms.gle/gEknDq3CSiaagBZu7',
@@ -48,7 +46,6 @@ const urls = [
 	'https://forms.gle/NpHUVH87bPzjSfHx8',
 	'https://forms.gle/2zdHMNFTXeEwUBku9',
 	'https://forms.gle/mcxyFo73qyvpJysh7',
-	'https://forms.gle/CxvKxoc53ZyGypq47',
 	'https://forms.gle/KzvZw5cZoYje6YEG9',
 	'https://forms.gle/VpnDPFWKQzF2fN7s7',
 	'https://forms.gle/9BxnZoYLw9UaY7Gw7',
@@ -70,6 +67,5 @@ const urls = [
 	'https://forms.gle/JLbovSTcFkoZQigN6',
 	'https://forms.gle/Q6AFB68RA6PW3dqW6',
 	'https://forms.gle/ENzSQo9DmdERDPbAA',
-	'https://forms.gle/RkoS3V86Z75DDc7NA',
 	'https://forms.gle/sF2eXasj1eZEUyRr7'
 ];
