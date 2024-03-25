@@ -12,7 +12,6 @@ const urls = [
 	'https://forms.gle/nLi72aturLvjnqucA',
 	'https://forms.gle/5BkDWcA57YazZb699',
 	'https://forms.gle/TTFYWCCcuMf5ufgQA',
-	'https://forms.gle/pjqG2EnieCa6WARK6',
 	'https://forms.gle/FA4Jf4NiaznFYypr6',
 	'https://forms.gle/gpJx5qfeeM6wSpPo7',
 	'https://forms.gle/nCSVuA1yrz1mgGXA7',
