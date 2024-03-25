@@ -23,7 +23,6 @@ const urls = [
 	'https://forms.gle/krWodFpPheqTrv9F6',
 	'https://forms.gle/tzZkybeWG9GWLWWWA',
 	'https://forms.gle/gEknDq3CSiaagBZu7',
-	'https://forms.gle/7G65vLeNKyJMTJHx8',
 	'https://forms.gle/vczvrDnJYXj6VFcm9',
 	'https://forms.gle/ihLqpgjph2EgArRL6',
 	'https://forms.gle/Escws7rYgPfbUNKQ6',
